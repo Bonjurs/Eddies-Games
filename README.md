@@ -1,4 +1,4 @@
-<img height="70px" src="https://avatars.githubusercontent.com/u/118455455?s=400&u=2f65a6a27342762b1d89a8ae8e60e1926bcf1810&v=4"></img>
+<img height="70px" src="https://www.bing.com/th/id/OGC.d0f09777e3ac69f962183f8f71256735?pid=1.7&rurl=https%3a%2f%2fmedia.giphy.com%2fmedia%2fi9wgk1eDvxjzO%2fgiphy.gif&ehk=TOG8pF%2f94Z%2foI8OBoHD7DDihO1pnsDvgeHB%2bRRmn0yM%3d"></img>
 
 An open-source unblocked games website built with simplicity in mind.
 
